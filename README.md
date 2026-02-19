@@ -50,13 +50,10 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 ##  GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=japmanyakaur&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com?user=japmanyakaur&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=japmanyakaur&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+
 
 ---
 
