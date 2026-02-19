@@ -2,7 +2,7 @@
 <!-- ===== Animated Header ===== -->
 
 <h1 align="center">Hi, I'm Japmanya Kaur 🎀</h1>
-<h3 align="center">AI Engineer in Progress • Building Intelligent Systems • Turning Ideas into Reality</h3>
+<h3 align="center">Machine Learning Enthusiast • Building Intelligent Systems • Turning Ideas into Reality</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Shipping+ideas+into+reality;Delivering+robust+solutions;Hackathon+Winner;Always+Learning&center=true&width=500&height=45">
@@ -20,7 +20,7 @@
 
 *  Passionate about hackathons, rapid prototyping, and turning ideas into working systems
   
-*  Currently deep diving into ** deep learning and neural networks**
+*  Currently deep diving into  deep learning and neural networks
 
 ---
 
@@ -40,8 +40,8 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 
 *  Autonomous Drone Vision System — Real-time object detection using YOLO + OpenCV for identifying safe landing spots
 *  RAG Knowledge System — Retrieval augmented pipeline for intelligent Q&A
-*  CureBetter —  Real-time facial analysis system using Mediapipe for automated pain detection to support healthcare monitoring and early intervention
-*  Course Recommender — Semantic NLP recommendation system leveraging transformer embeddings for personalized learning suggestions
+*  CureBetter —  Real-time facial analysis system using Mediapipe for automated pain detection to support healthcare monitoring 
+*  Course Recommender — Semantic NLP recommendation system leveraging transformer embeddings for personalized learning 
 *  Microscopy System — Computer vision system for live plankton detection using YOLOv8 and embedded hardware
 
 
