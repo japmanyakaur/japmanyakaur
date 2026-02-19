@@ -77,7 +77,7 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 
 ##  Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/japmanya/)
+* 💼 LinkedIn: https://www.linkedin.com/in/japmanya/
 * 📧 Email: japmanyak@gmail.com
 
 ---
