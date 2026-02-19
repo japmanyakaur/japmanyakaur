@@ -26,7 +26,7 @@
 
 ##  Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,opencv,tensorflow," />
 </p>
 
