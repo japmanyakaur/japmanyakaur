@@ -27,7 +27,7 @@
 ##  Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,opencv,tensorflow," />
+<img src="https://skillicons.dev/icons?i=python  ,cpp  ,java  ,opencv  ,tensorflow  ," />
 </p>
 
 ### Machine Learning   
