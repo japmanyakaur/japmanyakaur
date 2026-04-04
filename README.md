@@ -26,8 +26,6 @@
 
 ##  Tech Stack
 
-## Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="55"/>
   &nbsp;&nbsp;&nbsp;
