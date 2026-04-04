@@ -26,8 +26,18 @@
 
 ##  Tech Stack
 
+## Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python  ,cpp  ,java  ,opencv  ,tensorflow  ," />
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
 </p>
 
 ### Machine Learning   
