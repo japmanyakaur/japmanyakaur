@@ -56,7 +56,10 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 
 ---
 ##  GitHub Analytics
-<img src="./streak-stats.svg" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=japmanyakaur&theme=tokyonight&cache_seconds=1800" />
+</p>
+
 
 
 
