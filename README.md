@@ -2,7 +2,7 @@
 <!-- ===== Animated Header ===== -->
 
 <h1 align="center">Hi, I'm Japmanya Kaur 🎀</h1>
-<h3 align="center">Machine Learning Enthusiast • Building Intelligent Systems • Turning Ideas into Reality</h3>
+<h3 align="center">Machine Learning • Computer Vision • Turning Ideas into Reality</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Shipping+ideas+into+reality;Delivering+robust+solutions;Hackathon+Winner;Always+Learning&center=true&width=500&height=45">
