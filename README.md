@@ -93,6 +93,5 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
----
 
 ⭐ *I love building impactful technology and collaborating on ambitious ideas.*
