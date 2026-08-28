@@ -20,7 +20,7 @@
 
 * Passionate about hackathons, research, open-source, and rapid prototyping
   
-*  Currently deep diving into  deep learning and neural networks
+*  Currently deep-diving into Deep Learning, Neural Networks, and efficient ML systems
 
 ---
 
