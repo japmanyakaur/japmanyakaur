@@ -16,7 +16,7 @@
 
 *  Designing scalable RAG pipelines and AI workflows for knowledge-driven applications
 
-*  Creating impactful assistive technologies and practical ML solutions for real-world problems
+*  Working with object detection, image analysis, anomaly detection, and model optimization
 
 *  Passionate about hackathons, rapid prototyping, and turning ideas into working systems
   
