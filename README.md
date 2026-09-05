@@ -65,8 +65,8 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=japmanyakaur&label=Profile%20Views&color=blue" alt="Profile Views">
 </p>
----
 
+---
 
 ##  Contribution Graph
 
