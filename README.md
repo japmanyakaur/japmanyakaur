@@ -76,7 +76,6 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 
 ---
 
-
 ##  Current Focus
 
 *  Advanced ML systems & model optimization.
