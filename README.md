@@ -96,4 +96,4 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
   </a>
 </p>
 
-⭐ *I love building impactful technology and collaborating on ambitious ideas.*
+⭐ *I love building impactful technology and collaborating on ambitious ideas*
