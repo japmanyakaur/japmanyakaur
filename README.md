@@ -18,7 +18,7 @@
 
 *  Working with object detection, image analysis, anomaly detection, and model optimization
 
-* Passionate about hackathons, research, open-source, and rapid prototyping
+* Passionate about hackathons, research, open-source, and rapid prototyping.
   
 *  Currently deep-diving into Deep Learning, Neural Networks, and efficient ML systems
 
