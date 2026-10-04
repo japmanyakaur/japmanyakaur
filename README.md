@@ -9,7 +9,7 @@
 </p>
 
 ---
-..
+
 ##  About Me
 
 *  Building intelligent systems across Computer Vision, Deep Learning, and Generative AI
