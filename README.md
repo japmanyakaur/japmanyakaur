@@ -15,7 +15,7 @@
 
 *  Building intelligent systems across Computer Vision, Deep Learning, and Generative AI
 
-*  Designing scalable RAG pipelines and AI workflows for knowledge-driven applications
+*  Designing scalable RAG pipelines and AI workflows for knowledge-driven applicationss
 
 *  Working with object detection, image analysis, anomaly detection, and model optimization
 
