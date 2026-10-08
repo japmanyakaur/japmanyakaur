@@ -11,7 +11,7 @@
 ---
 
 
-##  About Me
+##  About Mee
 
 *  Building intelligent systems across Computer Vision, Deep Learning, and Generative AI
 
