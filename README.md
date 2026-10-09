@@ -41,7 +41,7 @@
 
 ### Machine Learning   
 
-YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
+YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning.
 
 ---
 
