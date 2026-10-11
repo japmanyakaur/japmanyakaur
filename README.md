@@ -47,7 +47,7 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 
 ## 🌟 Highlight Projects
 
-*  Autonomous Drone Vision System — Real-time object detection using YOLO + OpenCV for identifying safe landing spots
+*  Autonomous Drone Vision System — Real-time object detection using YOLO & OpenCV for identifying safe landing spots
 *  RAG Knowledge System — Retrieval augmented pipeline for intelligent Q&A
 *  CureBetter —  Real-time facial analysis system using Mediapipe for automated pain detection to support healthcare monitoring 
 *  Course Recommender — Semantic NLP recommendation system leveraging transformer embeddings for personalized learning 
