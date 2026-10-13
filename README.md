@@ -81,7 +81,7 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 
 *  Advanced ML systems & model optimization
 *  Building scalable AI applications
-*  Deep learning and practical deployment
+*  Deep learning and practical deployment.
 
 ---
 
