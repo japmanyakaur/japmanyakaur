@@ -12,7 +12,7 @@
 
 ##  About Me
 
-*  Building intelligent systems across Computer Vision, Deep Learning, and Generative AI.
+*  Building intelligent systems across Computer Vision, Deep Learning, and Generative AI
 
 *  Designing scalable RAG pipelines and AI workflows for knowledge-driven applications
 
