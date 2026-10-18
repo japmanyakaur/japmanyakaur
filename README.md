@@ -53,7 +53,6 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 *  Microscopy System — Computer vision system for live plankton detection using YOLOv8 and embedded hardware
 
 
-
 ---
 ## GitHub Analytics
 
