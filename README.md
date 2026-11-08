@@ -52,7 +52,6 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 *  Course Recommender — Semantic NLP recommendation system leveraging transformer embeddings for personalized learning 
 *  Microscopy System — Computer vision system for live plankton detection using YOLOv8 and embedded hardware
   
-
 ---
 ## GitHub Analytics
 
