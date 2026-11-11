@@ -51,6 +51,7 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
 *  CureBetter —  Real-time facial analysis system using Mediapipe for automated pain detection to support healthcare monitoring 
 *  Course Recommender — Semantic NLP recommendation system leveraging transformer embeddings for personalized learning 
 *  Microscopy System — Computer vision system for live plankton detection using YOLOv8 and embedded hardware
+* 
   
 ---
 ## GitHub Analytics
