@@ -71,7 +71,6 @@ YOLO • MediaPipe • OpenCV • RAG  • Scikit-learn • Deep Learning
   <img src="https://raw.githubusercontent.com/japmanyakaur/japmanyakaur/output/snake.svg" />
 </p>
 
-
 ---
 
 ##  Current Focus
